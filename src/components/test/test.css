@@ -1,0 +1,11 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.test_elem {
+    width: 10px;
+    height: 20px;
+    background: aqua;
+}
